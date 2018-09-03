@@ -9,6 +9,7 @@ public class A {
 	}
 public void test()
 {
-System.out.println(1.1);	
+System.out.println(1.1);
+	//new comment added by atulluta1
 }
 }
